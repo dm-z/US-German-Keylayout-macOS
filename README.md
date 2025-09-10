@@ -29,9 +29,7 @@ Everything else remains identical to the default **U.S. layout on macOS**.
 Copy the `.keylayout` file into:
 
 <pre>
-```  
 /Library/Keyboard Layouts/  
-```  
 </pre>
 
 [Optional: remove the default U.S./English layout and keep only this one](https://apple.stackexchange.com/a/60521).
